@@ -1,3 +1,6 @@
 pandas
 scikit-learn 
 matlpotlib
+joblib
+python-math
+seaborn
